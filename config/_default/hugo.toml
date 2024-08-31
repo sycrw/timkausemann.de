@@ -1,0 +1,4 @@
+baseURL = "https://timkausemann.de/"
+theme = "blowfish"
+languageCode = "en"
+title = "Tim Kausemann"

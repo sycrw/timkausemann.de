@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>http://localhost:54409/</loc>
+    <lastmod>2024-08-29T09:59:31+02:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="css_9d7c906d8fe82fddbbd923faebb24419"
+      href="http://localhost:54409/css_9d7c906d8fe82fddbbd923faebb24419/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:54409/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:54409/posts/a-short-rant-about-the-spotify-api/</loc>
+    <lastmod>2024-08-29T09:59:31+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:54409/posts/</loc>
+    <lastmod>2024-08-29T09:59:31+02:00</lastmod>
+  </url>
+</urlset>

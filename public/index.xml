@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Kausemann</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Tim Kausemann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Tim Kausemann</copyright>
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>A soon to be student a the Technische Universität München studying informatiks(computer science). Meanwhile i am also a working student a Check24.</description>
+      
+    </item>
+    
+    <item>
+      <title>MusicAnalyzer</title>
+      <link>http://localhost:1313/projects/musicanalyzer/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/musicanalyzer/</guid>
+      <description>Details about this project, challenges faced, solutions implemented, etc.</description>
+      
+    </item>
+    
+    <item>
+      <title>A short rant about the spotify apis</title>
+      <link>http://localhost:1313/posts/a-short-rant-about-the-spotify-api/</link>
+      <pubDate>Thu, 29 Aug 2024 09:59:31 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/a-short-rant-about-the-spotify-api/</guid>
+      <description>Using the spotify api can be a lot of fun, especially since you can get so much information on a user and can basically control his account from the api. This allows for crazy ideas to be implemented. But not everything is sunshine and roses when working with the api!
+You need to have a large Userbase # Long wait times # </description>
+      
+    </item>
+    
+  </channel>
+</rss>

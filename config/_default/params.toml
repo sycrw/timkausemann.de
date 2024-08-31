@@ -1,0 +1,18 @@
+colorScheme = "Ocean"
+
+
+[homepage]
+    layout = "background"
+    homepageImage="images/hero.webp"
+    showrecent = true
+    cardView = false
+
+[author]
+    name = "Tim Kausemann"
+    headline = "Software Enthusiast"
+    image = "images/hero.webp"
+    bio = "A soon to be student a the Technische Universität München studying informatiks(computer science). Meanwhile i am also a working student a Check24."
+    links = [
+        { github = "https://github.com/nunocoracao/sycrw" },
+
+    ]

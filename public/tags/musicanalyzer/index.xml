@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musicanalyzer on Tim Kausemann</title>
+    <link>http://localhost:1313/tags/musicanalyzer/</link>
+    <description>Recent content in Musicanalyzer on Tim Kausemann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Tim Kausemann</copyright>
+    <lastBuildDate>Thu, 29 Aug 2024 09:59:31 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/musicanalyzer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A short rant about the spotify apis</title>
+      <link>http://localhost:1313/posts/a-short-rant-about-the-spotify-api/</link>
+      <pubDate>Thu, 29 Aug 2024 09:59:31 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/a-short-rant-about-the-spotify-api/</guid>
+      <description>Using the spotify api can be a lot of fun, especially since you can get so much information on a user and can basically control his account from the api. This allows for crazy ideas to be implemented. But not everything is sunshine and roses when working with the api!
+You need to have a large Userbase # Long wait times # </description>
+      
+    </item>
+    
+  </channel>
+</rss>

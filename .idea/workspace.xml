@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1c21d2c-0880-45ac-9527-9fd0d7022217" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archetypes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archetypes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archetypes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archetypes/.idea/timkausemann.de.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archetypes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hero.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/_default/hugo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/_default/languages.en.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/main.bundle.min.373535dc030baea9ca29141cda783248524d74404e325ba0ad0d65d0e0ccc28d1c3ea04941f8bf0b095494267747dae4224a3923f86c8dabc5bf9d716ba3c35a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/main.bundle.min.d78a1d9a51d73c8836a8f37f5dfb213cb852240c6e5bb044591f6794894290b7101bd36d8ff1669b347f1486c5791586c0574e9f32ea835e2ef7b6e2c6becb82.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/categories/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/categories/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/tags/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/tags/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/en/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/en/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/hero.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run-local.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ananke" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/blowfish" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2lKCFVTbFkMFkFw7LbJtMAvxZpZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/tim/Developer/timkausemann.de",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Local" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/run-local.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1c21d2c-0880-45ac-9527-9fd0d7022217" name="Changes" comment="" />
+      <created>1724919278393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724919278393</updated>
+      <workItem from="1724919279404" duration="2419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
