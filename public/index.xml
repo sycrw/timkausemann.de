@@ -25,7 +25,7 @@
       
       <guid>http://localhost:1313/projects/musicanalyzer/</guid>
       <description>Details about this project, challenges faced, solutions implemented, etc.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/musicanalyzer/feature-musicanalyzer.png" />
     </item>
     
     <item>
