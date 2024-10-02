@@ -14,7 +14,8 @@
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
-      <description>A soon to be student a the Technische Universität München studying informatiks(computer science). Meanwhile i am also a working student a Check24.</description>
+      <description>A student a the Technische Universität München studying informatiks(computer science). Meanwhile i am also a working student a Check24.
+Experience # Scholarship 2023-24 Check24 Codeclub Gained insights into enterprise software development through participation in monthly tech talks and workshops Received mentorship to support the completion of individual technical projects Software Development Intern 2023 Check24 Finanzen GmbH Gained hands on experience in software engineering, applying knowledge learned in scholarship, including agile methodologies such as scrum Contributed to establishing the frontend foundations for new functionalities on a high load application Software Development Working Student AWESOME Check24 Finanzen GmbH Gained hands on experience in software engineering, applying knowledge learned in scholarship, including agile methodologies such as scrum Contributed to establishing the frontend foundations for new functionalities on a high load application </description>
       
     </item>
     
@@ -30,12 +31,12 @@
     
     <item>
       <title>A short rant about the spotify apis</title>
-      <link>http://localhost:1313/posts/a-short-rant-about-the-spotify-api/</link>
+      <link>http://localhost:1313/posts/a-short-rant-about-the-spotify-api-copy/</link>
       <pubDate>Thu, 29 Aug 2024 09:59:31 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/a-short-rant-about-the-spotify-api/</guid>
+      <guid>http://localhost:1313/posts/a-short-rant-about-the-spotify-api-copy/</guid>
       <description>Using the spotify api can be a lot of fun, especially since you can get so much information on a user and can basically control his account from the api. This allows for crazy ideas to be implemented. But not everything is sunshine and roses when working with the api!
-You need to have a large Userbase # Long wait times # </description>
+Untuchable with a large userbase # </description>
       
     </item>
     

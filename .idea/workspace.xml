@@ -5,35 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1c21d2c-0880-45ac-9527-9fd0d7022217" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/.idea/timkausemann.de.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/author.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/hero.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/_default/hugo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/_default/languages.en.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/main.bundle.min.373535dc030baea9ca29141cda783248524d74404e325ba0ad0d65d0e0ccc28d1c3ea04941f8bf0b095494267747dae4224a3923f86c8dabc5bf9d716ba3c35a.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/main.bundle.min.d78a1d9a51d73c8836a8f37f5dfb213cb852240c6e5bb044591f6794894290b7101bd36d8ff1669b347f1486c5791586c0574e9f32ea835e2ef7b6e2c6becb82.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/categories/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/categories/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/tags/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css_9d7c906d8fe82fddbbd923faebb24419/tags/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/en/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/en/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/author.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/hero.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-local.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ananke" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/blowfish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +21,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2lKCFVTbFkMFkFw7LbJtMAvxZpZ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -63,7 +38,6 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/tim/Developer/timkausemann.de",
@@ -72,6 +46,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -101,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724919278393</updated>
       <workItem from="1724919279404" duration="2419000" />
+      <workItem from="1727850400561" duration="61000" />
     </task>
     <servers />
   </component>
