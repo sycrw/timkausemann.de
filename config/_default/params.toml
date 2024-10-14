@@ -9,10 +9,10 @@ colorScheme = "Ocean"
 
 [author]
     name = "Tim Kausemann"
-    headline = "Software Enthusiast"
+    headline = "Software Developer"
     image = "images/author.jpg"
-    bio = "A soon to be student a the Technische Universität München studying informatiks(computer science). Meanwhile i am also a working student a Check24."
     links = [
         { github = "https://github.com/sycrw" },
+        { linkedin = "https://www.linkedin.com/in/tim-martin-kausemann-478b44265/" },
 
     ]

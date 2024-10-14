@@ -5,10 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1c21d2c-0880-45ac-9527-9fd0d7022217" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/musicanalyzer-top-artists.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/a-simple-cicd-setup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/not-paying-300-for-access-to-my-smarthome-from-outside.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/tasmota-export/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/about/feature-about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/about/feature-about.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/musicanalyzer-top-artists_hu10340934156688427457.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/musicanalyzer-top-artists_hu12227428151610251658.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/musicanalyzer-top-artists_hu2464701939790171128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/musicanalyzer-top-artists_hu8232779387718947868.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/posts/a-simple-cicd-setup/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/posts/not-paying-300-for-access-to-my-smarthome-from-outside/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/projects/musicanalyzer/feature-musicanalyzer_hu1621753720845567614.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/projects/musicanalyzer/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/projects/musicanalyzer/musicanalyzer-top-artists.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/projects/musicanalyzer/top-artists.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/images/musicanalyzer-top-artists_hu10340934156688427457.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/images/musicanalyzer-top-artists_hu12227428151610251658.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/images/musicanalyzer-top-artists_hu2464701939790171128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/images/musicanalyzer-top-artists_hu8232779387718947868.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/musicanalyzer/feature-musicanalyzer_hu1621753720845567614.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/musicanalyzer/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/musicanalyzer/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/a-short-rant-about-the-spotify-api-copy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/a-short-rant-about-the-spotify-api-copy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/projects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/projects/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/projects/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/projects/musicanalyzer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/projects/musicanalyzer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +75,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/tim/Developer/timkausemann.de",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tim/Developer/timkausemann.de&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/projects/" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Local" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
@@ -78,7 +128,9 @@
       <option name="presentableId" value="Default" />
       <updated>1724919278393</updated>
       <workItem from="1724919279404" duration="2419000" />
-      <workItem from="1727850400561" duration="61000" />
+      <workItem from="1727850400561" duration="7898000" />
+      <workItem from="1728075292639" duration="603000" />
+      <workItem from="1728649955200" duration="3516000" />
     </task>
     <servers />
   </component>

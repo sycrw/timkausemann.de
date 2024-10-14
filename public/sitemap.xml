@@ -4,7 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-02T21:54:39+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/not-paying-300-for-access-to-my-smarthome-from-outside/</loc>
+    <lastmod>2024-10-02T21:54:39+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-10-02T21:54:39+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/a-simple-cicd-setup/</loc>
+    <lastmod>2024-10-02T21:54:05+02:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/about/</loc>
@@ -15,15 +27,15 @@
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/projects/tasmota-export/</loc>
+    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/a-short-rant-about-the-spotify-api/</loc>
-    <lastmod>2024-08-29T09:59:31+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/posts/a-short-rant-about-the-spotify-api-copy/</loc>
     <lastmod>2024-08-29T09:59:31+02:00</lastmod>
   </url>
 </urlset>

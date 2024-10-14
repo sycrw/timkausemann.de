@@ -14,8 +14,22 @@
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/musicanalyzer/</guid>
-      <description>Details about this project, challenges faced, solutions implemented, etc.</description>
+      <description>Music Analyzer is a tool to extract listening data from your spotify account. It was created, so you did not have to wait till the end of the year for spotify wrapped to get all your listing data.
+The Beginnings # The project got launched within the Code Club Scholarship. Together with two fellow scholars we set out to create this project.
+Tech Stack # We chose Next.js as a full stack framework, since at this time none of use had experience with React, hoping to learn it along the way.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/musicanalyzer/feature-musicanalyzer.png" />
+    </item>
+    
+    <item>
+      <title>MusicAnalyzer</title>
+      <link>http://localhost:1313/projects/tasmota-export/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/tasmota-export/</guid>
+      <description>Music Analyzer is a tool to extract listening data from your spotify account. It was created, so you did not have to wait till the end of the year for spotify wrapped to get all your listing data.
+The Beginnings # The project got launched within the Code Club Scholarship. Together with two fellow scholars we set out to create this project.
+Tech Stack # We chose Next.js as a full stack framework, since at this time none of use had experience with React, hoping to learn it along the way.</description>
+      
     </item>
     
   </channel>
