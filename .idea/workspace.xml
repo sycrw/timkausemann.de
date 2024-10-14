@@ -4,54 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c21d2c-0880-45ac-9527-9fd0d7022217" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/musicanalyzer-top-artists.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/a-simple-cicd-setup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/not-paying-300-for-access-to-my-smarthome-from-outside.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/projects/tasmota-export/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/about/feature-about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/about/feature-about.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/musicanalyzer-top-artists_hu10340934156688427457.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/musicanalyzer-top-artists_hu12227428151610251658.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/musicanalyzer-top-artists_hu2464701939790171128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/musicanalyzer-top-artists_hu8232779387718947868.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/posts/a-simple-cicd-setup/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/posts/not-paying-300-for-access-to-my-smarthome-from-outside/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/projects/musicanalyzer/feature-musicanalyzer_hu1621753720845567614.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/projects/musicanalyzer/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/projects/musicanalyzer/musicanalyzer-top-artists.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/projects/musicanalyzer/top-artists.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/images/musicanalyzer-top-artists_hu10340934156688427457.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/images/musicanalyzer-top-artists_hu12227428151610251658.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/images/musicanalyzer-top-artists_hu2464701939790171128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/images/musicanalyzer-top-artists_hu8232779387718947868.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/musicanalyzer/feature-musicanalyzer_hu1621753720845567614.png" afterDir="false" />
+    <list default="true" id="b1c21d2c-0880-45ac-9527-9fd0d7022217" name="Changes" comment="update page, with projects">
+      <change afterPath="$PROJECT_DIR$/content/projects/tasmota-export/feature-tasmota-export.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/projects/tasmota-export/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/musicanalyzer/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/musicanalyzer/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/tasmota-export/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/tasmota-export/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/a-short-rant-about-the-spotify-api-copy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/a-short-rant-about-the-spotify-api-copy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/projects/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/projects/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/projects/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/projects/musicanalyzer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/projects/musicanalyzer/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,8 +91,17 @@
       <workItem from="1724919279404" duration="2419000" />
       <workItem from="1727850400561" duration="7898000" />
       <workItem from="1728075292639" duration="603000" />
-      <workItem from="1728649955200" duration="3516000" />
+      <workItem from="1728649955200" duration="4384000" />
     </task>
+    <task id="LOCAL-00001" summary="update page, with projects">
+      <option name="closed" value="true" />
+      <created>1728901169568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728901169568</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,5 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update page, with projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="update page, with projects" />
   </component>
 </project>

@@ -16,7 +16,7 @@
       <guid>http://localhost:1313/projects/tasmota-export/</guid>
       <description>sycrw/tasmota-export export tasmota smart plug data TypeScript 0 0 What? # This project aims to save and store the data like power usage, from a tasmota smart plug.
 How # It all starts with the tasmota device sending its telemetry data via a mqtt broker (in this case, mosquitto) to a python app, which saves it into an influxdb. Python was chosen for this task, as it had the easiest to work with a client library for mqtt and influxdb.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/tasmota-export/feature-tasmota-export.png" />
     </item>
     
     <item>
