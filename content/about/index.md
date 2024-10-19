@@ -49,3 +49,5 @@ A student at the Technische Universität München studying informatiks(computer 
 {{< /timeline >}}
 
 {{< list title="Projects" cardView=false limit="10" where="Type" value="projects" >}}
+
+See more on my [Github](https://github.com/sycrw)

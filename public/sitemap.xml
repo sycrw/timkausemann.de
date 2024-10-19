@@ -4,7 +4,15 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-02T21:54:39+02:00</lastmod>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/tasmota-export/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/posts/not-paying-300-for-access-to-my-smarthome-from-outside/</loc>
@@ -24,14 +32,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/projects/musicanalyzer/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/tasmota-export/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url>
   <url>
