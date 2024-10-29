@@ -7,35 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Tim Kausemann</copyright>
-    <lastBuildDate>Wed, 02 Oct 2024 21:54:39 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2024 08:43:09 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Not Paying 300$ for access to my Smarthome from Outside</title>
-      <link>http://localhost:1313/posts/not-paying-300-for-access-to-my-smarthome-from-outside/</link>
-      <pubDate>Wed, 02 Oct 2024 21:54:39 +0200</pubDate>
+      <title>Simple Cicd Setup</title>
+      <link>http://localhost:1313/posts/simple-cicd-setup/</link>
+      <pubDate>Tue, 29 Oct 2024 08:43:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/not-paying-300-for-access-to-my-smarthome-from-outside/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>A Simple CiCd Setup</title>
-      <link>http://localhost:1313/posts/a-simple-cicd-setup/</link>
-      <pubDate>Wed, 02 Oct 2024 21:54:05 +0200</pubDate>
-      
-      <guid>http://localhost:1313/posts/a-simple-cicd-setup/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>A short rant about the spotify apis</title>
-      <link>http://localhost:1313/posts/a-short-rant-about-the-spotify-api-copy/</link>
-      <pubDate>Thu, 29 Aug 2024 09:59:31 +0200</pubDate>
-      
-      <guid>http://localhost:1313/posts/a-short-rant-about-the-spotify-api-copy/</guid>
-      <description>Using the spotify api can be a lot of fun, especially since you can get so much information on a user and can basically control his account from the api. This allows for crazy ideas to be implemented. But not everything is sunshine and roses when working with the api!
-Untuchable with a large userbase # </description>
+      <guid>http://localhost:1313/posts/simple-cicd-setup/</guid>
+      <description>Almost every software developer has built some kind of side project, which is great. But there are so many projects that never leave local and are only visible through a GitHub repository. Because of this, here is my simple ci-cd setup, which makes deploying applications easy. The goal of the setup is not high availability, or to handle much load, but it should be a starting point for any small application.</description>
       
     </item>
     
