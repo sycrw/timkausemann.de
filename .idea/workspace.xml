@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1c21d2c-0880-45ac-9527-9fd0d7022217" name="Changes" comment="tasmota finished">
-      <change beforePath="$PROJECT_DIR$/content/posts/a-short-rant-about-the-spotify-api copy.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/a-short-rant-about-the-spotify-api copy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/a-simple-cicd-setup.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/a-simple-cicd-setup.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/projects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/projects/musicanalyzer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/projects/musicanalyzer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/projects/tasmota-export/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/projects/tasmota-export/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +95,7 @@
       <workItem from="1728075292639" duration="603000" />
       <workItem from="1728649955200" duration="6652000" />
       <workItem from="1729243045721" duration="2650000" />
+      <workItem from="1730183479291" duration="378000" />
     </task>
     <task id="LOCAL-00001" summary="update page, with projects">
       <option name="closed" value="true" />
