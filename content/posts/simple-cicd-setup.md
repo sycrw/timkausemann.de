@@ -1,7 +1,7 @@
 +++
 title = 'Simple Cicd Setup'
 date = 2024-10-29T08:43:09+01:00
-draft = true
+draft = false
 +++
 
 Almost every software developer has built some kind of side project, which is great. But there are so many
@@ -11,14 +11,17 @@ or to handle much load, but it should be a starting point for any small applicat
 on a raspberry pi, but it should work with any other linux server. It can deploy everything that runs in a docker container.
 
 ## Prerequisites
+
 - SSH connection to server
 - Ansible
 - Docker
 
 In case you don't have these setup, here is some help:
+
 - ssh: https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server
 - ansible: https://docs.ansible.com/ansible/latest/getting_started/index.html
 - docker: you can set up docker with this ansible role:
+
 ```yaml
 - name: Update apt package index
   ansible.builtin.apt:
@@ -60,17 +63,22 @@ In case you don't have these setup, here is some help:
 ```
 
 ## How the system works
+
 The basic idea works as follows:
+
 1. Deploy your application, either via ansible, portainer, or docker cli.
 2. On commit, build a docker image and push it to your local docker registry. (this will be done automatically)
 3. Watchtower, an application, will detect new image and restart app with new image
 4. Done.
 
 ## Setting up CiCd Infrastructure
+
 ### Web Server(Caddy)
+
 For some applications, I would recommend a web server such as caddy(e.g., portainer/docker registry).
 Else you would need to expose single ports for all of these.
 In an ansible role, you can configure caddy like this:
+
 ```yaml
 - name: install rsync
   apt:
@@ -90,10 +98,14 @@ In an ansible role, you can configure caddy like this:
 - name: restart caddy
   ansible.builtin.shell: docker restart caddy
 ```
+
 Make sure to write your caddyfile into /roles/caddy/templates. You can learn more about caddyfiles [here](https://caddyserver.com/docs/caddyfile).
 If you are having problems reaching your server via http, maybe check your firewall.
+
 ### Docker registry:
+
 This is the registry, where we will push our dockerfile. Watchtower will be scaning this.
+
 ```yaml
 - name: Deploy registry
   community.docker.docker_container:
@@ -105,21 +117,27 @@ This is the registry, where we will push our dockerfile. Watchtower will be scan
       - "127.0.0.1:5000:5000"
     restart_policy: always
 ```
+
 We will also need to configure caddy to point to the registry. You should name your url how you want to.
+
 ```yaml
 <url> {
-	reverse_proxy 127.0.0.1:5000 <set this to the same port your registry is running on>
-	basicauth /* {
-			<user> <hashed-password>
-	}	
+reverse_proxy 127.0.0.1:5000 <set this to the same port your registry is running on>
+basicauth /* {
+<user> <hashed-password>
+}
 }
 ```
-You can also put all of these applications in a docker network, then you don't need to expose these ports. 
+
+You can also put all of these applications in a docker network, then you don't need to expose these ports.
 If you have caddy/ any other web server running, writing 127.0.0.1/localhost in front of the port will only make it accessible to your internal network, which caddy can forward the request to.
+
 ### Portainer
+
 Portainer is a UI for Docker. You don't need to use it,
 but I find it easier than always having to ssh into the server to check your deployments.
 You can set it up with this ansible code:
+
 ```yaml
 - name: run portainer
   community.docker.docker_container:
@@ -132,25 +150,33 @@ You can set it up with this ansible code:
       - /var/lib/portainer:/data
     restart_policy: always
 ```
+
 And we also need to add directive I caddy for it:
+
 ```yaml
 <url> {
-	reverse_proxy 127.0.0.1:9000
+reverse_proxy 127.0.0.1:9000
 }
 ```
+
 The first time you visit your portainer app, it will guide you through the setup.
+
 ### Watchtower
-At last, we only need to deploy Watchtower, which checks if it can find new images in the registry, 
+
+At last, we only need to deploy Watchtower, which checks if it can find new images in the registry,
 for all containers running and replaces them. With this ansible code (you can put it in a separate role or in the docker role) it will be up and running.
 We don't need to expose the application in any other way.
 
 ## Deploying an application
+
 If you want to deploy an app, you can either do it via ansible,
 or poratiner ui/docker cli.
 In my experience, while it is nice to also have your applications configured in code,
-you need to be 100% certain that your image is already in the registry, else you ansible will fail. 
+you need to be 100% certain that your image is already in the registry, else you ansible will fail.
 Once you created your container, all we need to do is create a new image on every commit and push it to the registry.
+
 ### Building and Pushing your Image on every commit.
+
 For this, I am using GitHub actions, but you can use any other build system if you want.
 
 The first step is to create the image, and then we need to push it.
@@ -202,7 +228,6 @@ Then it will build and push your image to your registry.
 If you are using a different server that a raspberry pi, you may need to change the platforms.
 
 From there on watchtower will see the new image and update your docker container!
-
 
 If you have any other questions or want to contribute to this post, feel free to open an issue/pr on this repo:
 
