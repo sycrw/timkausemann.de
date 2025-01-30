@@ -1,7 +1,6 @@
 +++
 title = 'Simple Cicd Setup'
 date = 2024-10-29T08:43:09+01:00
-draft = false
 +++
 
 Almost every software developer has built some kind of side project, which is great. But there are so many
