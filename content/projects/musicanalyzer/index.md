@@ -26,10 +26,12 @@ To connect OAuth2 from Spotify, we used NextAuth(now Auth.js) which saved us a l
 ## Features
 
 But what is Music Analyzer actually cable of?
+
 ### Top Songs and Artists
+
 Music Analyzer shows users their top songs and artists.
 Users can filter for the last 4 weeks, 6 months and 1 year.
-We would like to make other time ranges available, but sadly spotify does not offer any other. 
+We would like to make other time ranges available, but sadly spotify does not offer any other.
 
 ![image](images/musicanalyzer-top-artists.png "Top Artists Page")
 
@@ -38,7 +40,7 @@ We would like to make other time ranges available, but sadly spotify does not of
 On the top songs page, the user can also create a playlist from his top fifty songs in his spotify account.
 In my personal experience these playlists are great for whenever you feel like you don't enjoy any music at all.
 
-### Archives 
+### Archives
 
 Music Analyzer also allows users to archive their top songs.
 If they find their top 50 songs nice, or just want to save them for later, they can now do that.
@@ -53,4 +55,3 @@ Although the scholarship has long ended, we still have some more ideas.
 - Friends
 
 [Check It Out](https://musicanalyzer.cc)
-

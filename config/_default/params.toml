@@ -1,11 +1,12 @@
 colorScheme = "Ocean"
 
+mainSections = ["posts", "projects"]
+
 
 [homepage]
     layout = "background"
     homepageImage="images/hero.webp"
     showrecent = true
-    cardView = true
 
 [author]
     name = "Tim Kausemann"
@@ -16,3 +17,4 @@ colorScheme = "Ocean"
         { linkedin = "https://www.linkedin.com/in/tim-martin-kausemann-478b44265/" },
 
     ]
+
