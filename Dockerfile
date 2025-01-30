@@ -1,7 +1,6 @@
 FROM alpine:edge AS builder
 RUN apk add --no-cache hugo git
-WORKDIR /src
-COPY src .
+COPY . .
 RUN hugo --destination=/output
 FROM nginx:alpine
 COPY --from=builder /output /usr/share/nginx/html
