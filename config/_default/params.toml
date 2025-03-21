@@ -10,7 +10,7 @@ mainSections = ["posts", "projects"]
 
 [author]
     name = "Tim Kausemann"
-    headline = "Software Developer"
+
     image = "images/author.jpg"
     links = [
         { github = "https://github.com/sycrw" },
