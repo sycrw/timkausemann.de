@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Tim Kausemann</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://timkausemann.de/projects/</link>
     <description>Recent content in Projects on Tim Kausemann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Tim Kausemann</copyright>
-    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://timkausemann.de/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BBCLI</title>
-      <link>http://localhost:1313/projects/bbcli/</link>
+      <link>https://timkausemann.de/projects/bbcli/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/bbcli/</guid>
+      <guid>https://timkausemann.de/projects/bbcli/</guid>
       <description>BBCLI/cli Go 0 0 What? # BBCLI is a cli for the bitbucket cloud api. It was created by 2 fellow working students at Check24 during an internal hackathon.
 How # The cli is written in go, as it was something we wanted to learn. We also used cobra for the cli framework.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://timkausemann.de/projects/bbcli/feature-bbcli.webp" />
     </item>
     
     <item>
       <title>Tasmota Exporter</title>
-      <link>http://localhost:1313/projects/tasmota-export/</link>
+      <link>https://timkausemann.de/projects/tasmota-export/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/tasmota-export/</guid>
+      <guid>https://timkausemann.de/projects/tasmota-export/</guid>
       <description>sycrw/tasmota-export export tasmota smart plug data TypeScript 0 0 What? # This project aims to save and store the data like power usage, from a tasmota smart plug.
 How # It all starts with the tasmota device sending its telemetry data via a mqtt broker (in this case, mosquitto) to a python app, which saves it into an influxdb. Python was chosen for this task, as it had the easiest to work with a client library for mqtt and influxdb.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/tasmota-export/feature-tasmota-export.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://timkausemann.de/projects/tasmota-export/feature-tasmota-export.png" />
     </item>
     
     <item>
       <title>MusicAnalyzer</title>
-      <link>http://localhost:1313/projects/musicanalyzer/</link>
+      <link>https://timkausemann.de/projects/musicanalyzer/</link>
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/musicanalyzer/</guid>
+      <guid>https://timkausemann.de/projects/musicanalyzer/</guid>
       <description>Music Analyzer is a tool to extract listening data from your spotify account. It was created, so you did not have to wait till the end of the year for spotify wrapped to get all your listing data.
 The Beginnings # The project got launched within the Code Club Scholarship. Together with two fellow scholars we set out to create this project.
 Tech Stack # We chose Next.js as a full stack framework, since at this time none of use had experience with React, hoping to learn it along the way.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/musicanalyzer/feature-musicanalyzer.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://timkausemann.de/projects/musicanalyzer/feature-musicanalyzer.png" />
     </item>
     
   </channel>
